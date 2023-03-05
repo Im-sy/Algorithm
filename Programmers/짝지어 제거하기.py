@@ -11,7 +11,6 @@ def solution(s):
         return 0
     else:
         return 1
-
     ## 시간 초과
     # answer = 0
     # while True:
