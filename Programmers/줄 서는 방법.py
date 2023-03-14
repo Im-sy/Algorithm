@@ -19,6 +19,7 @@ def solution(n, k):
         answer.append(numbers[time])
         numbers.pop(time)
     return answer
+
     ## 효율성 시간 초과
     # answer = []
     # time = k // math.factorial(n-1) + 1
