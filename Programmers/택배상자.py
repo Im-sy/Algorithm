@@ -23,3 +23,4 @@ def solution(order):
 
 print(solution([4, 3, 1, 2, 5]))
 print(solution([5, 4, 3, 2, 1]))
+
